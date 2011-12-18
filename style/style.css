@@ -1,0 +1,25 @@
+﻿body {
+  min-width: 357px;
+  overflow-x: hidden;
+}
+
+img {
+  margin:5px;
+  border:2px solid black;
+  vertical-align:middle;
+  width:75px;
+  height:75px;
+}
+
+#spinner 
+{
+    
+}
+
+#spinnerMessage
+{
+    background:url("../images/loader.gif") 0 0 no-repeat;
+    padding-left:40px;
+    line-height:40px;
+    vertical-align:baseline;
+}

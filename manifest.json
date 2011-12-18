@@ -1,0 +1,17 @@
+{
+  "name": "Furk For Chrome [beta]",
+  "version": "1.0",
+  "description": "Furk productivity extension for the Google Chrome browser.",
+  "icons": {
+        "16":  "images/icon16.png",
+        "48":  "images/icon48.png",
+        "128": "images/icon128.png"
+  },
+  "background_page": "background.html",
+  "permissions": [
+    "contextMenus",	"notifications", "tabs", 
+    "http://api.furk.net/",
+    "http://*/*", 
+    "https://*/*"
+  ]
+}
