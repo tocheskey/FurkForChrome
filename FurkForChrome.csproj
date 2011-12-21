@@ -53,21 +53,19 @@
   <ItemGroup>
     <None Include="manifest.json" />
     <Content Include="background.html" />
-    <Content Include="extlib\jquery-1.7.min.js" />
+    <Content Include="extlib\jquery-1.7.1.min.js" />
     <Content Include="images\icon128.png" />
     <Content Include="images\icon16.png" />
     <Content Include="images\icon48.png" />
     <Content Include="images\loader.gif" />
     <Content Include="images\page-action-dl-19.png" />
     <Content Include="lib\furkForChrome.js" />
-    <Content Include="lib\torrentz.js" />
-    <Content Include="lib\furk.js" />
-    <Content Include="lib\background.js" />
+    <Content Include="lib\furkAPI.js" />
     <Content Include="lib\panel.js" />
     <Content Include="chrome-api-vsdoc.js" />
-    <Content Include="lib\lib.js" />
     <Content Include="panel.html" />
     <Content Include="style\style.css" />
+    <None Include="packages\FurkForChrome.crx" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
