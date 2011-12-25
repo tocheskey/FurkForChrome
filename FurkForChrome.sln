@@ -6,6 +6,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A5C4C178-52A1-4C3C-B347-8B31A1B92BE7}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		LICENCE.txt = LICENCE.txt
+		README = README
 	EndProjectSection
 EndProject
 Global
